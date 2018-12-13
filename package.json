@@ -42,5 +42,8 @@
     "babel-register": "^6.26.0",
     "mocha": "^5.1.0",
     "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "node-static": "^0.7.11"
   }
 }
